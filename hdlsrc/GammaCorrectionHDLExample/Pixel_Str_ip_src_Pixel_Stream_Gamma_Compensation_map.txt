@@ -1,0 +1,3 @@
+ --> Pixel_Str_ip_src_Pixel_Stream_Gamma_Compensation_pkg
+GammaCorrectionHDLExample/Pixel-Stream Gamma Compensation/Gamma Corrector --> Pixel_Str_ip_src_Gamma_Corrector
+GammaCorrectionHDLExample/Pixel-Stream Gamma Compensation --> Pixel_Str_ip_src_Pixel_Stream_Gamma_Compensation
